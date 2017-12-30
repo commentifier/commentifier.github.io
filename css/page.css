@@ -3657,7 +3657,8 @@ amp-accordion>section>:first-child {
 
 .lune-landing-title-bottom {
   right: calc(-6% - .26em);
-  top: 52%
+  margin-bottom: 30px;
+  top: 52%;
 }
 
 .lune-landing-title-middle {
